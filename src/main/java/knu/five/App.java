@@ -17,7 +17,7 @@ public class App {
 
     }
     public static void juhwan(){
-
+	System.out.println("my name is juhwan and 24 years old");
     }
     public static void mongjin() {
 
